@@ -1,0 +1,9 @@
+{
+  "name": "CreatorIQ",
+  "short_name": "CIQ",
+  "theme_color": "#464646",
+  "background_color": "#097cd7",
+  "display": "fullscreen",
+  "scope": "/",
+  "start_url": "https://app.creatoriq.com"
+}
